@@ -32,7 +32,7 @@ The application is structured as a **Modular Monolith** (package-by-feature) ins
 ### Local Setup
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/vladyslav-rynder/warecore
    cd warecore
 
 2. **Start PostgreSQL database:**
